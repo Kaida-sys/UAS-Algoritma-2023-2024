@@ -16,7 +16,6 @@ private:
 
 public:
     InventarisasiGudang() {
-        // Menambahkan 20 barang ke dalam database
         barangList = {
             {1, "Laptop", 10, 15000.00},
             {2, "Mouse", 50, 200.00},
